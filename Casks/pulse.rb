@@ -1,5 +1,5 @@
 cask "pulse" do
-  version "1.0.0"
+  version "0.01.0"
   sha256 "c615f85d065f9e5f86bea5780eb8f565d6d0d26880cc11c72fddbc613db2a8c5"
 
   url "https://github.com/SirAgus/dynamicIsland/releases/download/v#{version}/PULSE.dmg"
