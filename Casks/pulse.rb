@@ -1,6 +1,6 @@
 cask "pulse" do
-  version "0.01.6"
-  sha256 "eae9c8d6f56da3554492ccbce1b8476f2339a5d23a965358b346d506a5ba73bf"
+  version "0.02.0"
+  sha256 "4f1ccd37f140e7f5aa31a885f96b7f868c6dbaf9ef3d1c10df7385cfa9d6ac4e"
 
   url "https://github.com/SirAgus/Pulse/releases/download/v#{version}/PULSE.dmg"
   name "PULSE"
